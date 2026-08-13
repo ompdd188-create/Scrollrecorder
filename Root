@@ -1,0 +1,47 @@
+pubspec.yaml
+    yaml
+    environment:
+      sdk: ">=3.4.0 <4.0.0"
+    dependencies:
+      flutter:
+        sdk: flutter
+      shared_preferences: ^2.2.3
+    dev_dependencies:
+      flutter_test:
+        sdk: flutter
+      flutter_lints: ^3.0.0
+    flutter:
+      uses-material-design: true
+
+
+    .metadata
+
+    name: ScrollRecorder
+    description: Aplikasi rekam dan putar ulang gerakan scroll otomatis di layar HP
+    author: User
+    organization: com.example
+    version: 1.0.0+1
+    environment:
+      sdk: ">=3.4.0 <4.0.0"
+      flutter: ">=3.22.0"
+
+
+    .gitignore
+
+    Flutter
+    /.dart_tool/
+    /.package_config
+    /.packages
+    /build/
+    /pub-cache/
+    /pubspec.lock
+    /flutter_export_environment.sh
+    /android//gradle-wrapper.properties
+    /android//local.properties
+    IDE
+    .idea/
+    .vscode/
+    *.iml
+    OS
+    .DS_Store
+    Thumbs.db
