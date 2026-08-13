@@ -1,0 +1,9 @@
+pluginManagement {
+    def flutterGradlePlugin = "dev.flutter.embedding flutter"
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+include ':app'
