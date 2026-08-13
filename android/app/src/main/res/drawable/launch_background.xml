@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="launch_background">
+        <color android:color="#121212"/>
+    </drawable>
+    <drawable name="ic_launcher">
+        <color android:color="#42A5F5"/>
+    </drawable>
+</resources>
