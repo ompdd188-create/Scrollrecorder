@@ -1,0 +1,19 @@
+# Flutter
+/.dart_tool/
+/.package_config
+/.packages
+/build/
+/pub-cache/
+/pubspec.lock
+/flutter_export_environment.sh
+**/android/**/gradle-wrapper.properties
+**/android/**/local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS generated
+.DS_Store
+Thumbs.db
